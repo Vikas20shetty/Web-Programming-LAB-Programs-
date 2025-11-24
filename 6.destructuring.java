@@ -12,3 +12,7 @@ console.log(id, sname, percent);
 let fact = n => (n ? n * fact(n - 1) : 1);
 console.log('Using arrow function');
 console.log(fact(5)); 
+
+//save the file in .js extention 
+//open terminal
+//type "node destructuring.js"
